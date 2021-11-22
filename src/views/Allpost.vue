@@ -21,6 +21,7 @@
                 />
               </div>
               <div>
+                <h2>hello wold</h2>
                 <div class="d-flex justify-content-between">
                   <h3>{{ items.title }}</h3>
                   <div
